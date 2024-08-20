@@ -1,4 +1,3 @@
-GNU nano 8.0                                     sender.py                                      Modified
 import socket
 import random
 import time
